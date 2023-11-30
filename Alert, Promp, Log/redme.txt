@@ -1,0 +1,31 @@
+>BELAJAR JS<
+
+    > ALERT
+    
+    Di gunakan untuk menampilkan popup di atas browser.
+
+    - contoh : 
+    alert("Halo Dunia!")
+
+==================================================
+
+    > LOG
+
+   untuk membuka console klik kanan di browser lalu pilih inspeksi, lalu pilih menu console di sebelah elements
+
+    - contoh :
+    console.log('Halo Kamu')
+
+==================================================
+
+    > PROMPT
+
+    di gunakan seperti ALERT tetapi juga menyuruh user untuk mengisikan data di bagian popup
+
+    - contoh :
+    prompt('Berpa Usiamu?')
+
+==================================================
+
+    > VARIABLE
+
