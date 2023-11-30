@@ -1,0 +1,1 @@
+alert ("Tetaplah Bahagia Dalam Belajar")

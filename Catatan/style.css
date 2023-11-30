@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(89, 140, 201);
+}
+
+.navigation-bar {
+    background-color: #333;
+    /* padding: 10px; */
+    /* position: fixed; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box1{
+    background-color: rgb(161, 203, 255);
+}
+
+.kepala1{
+    margin-left: 30px;
+    margin-right: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    color: green;
+}
+
+p {
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 18px;
+    text-align: justify;
+}
